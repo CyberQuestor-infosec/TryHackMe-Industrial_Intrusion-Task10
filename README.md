@@ -119,4 +119,4 @@ Check out the detailed explanation and lab demonstration in the Medium blog:
 ## 👩‍💻 Author
 
 **CyberQuestor-infosec**  
-🔗 [GitHub](https://github.com/CyberQuestor-infosec) | ✍️ [Medium](https://medium.com/@sakshi.infosec)
+🔗 [GitHub](https://github.com/CyberQuestor-infosec) | ✍️ [Medium](https://medium.com/cyberquestor/tryhackme-industrial-intrusion-task-10-web-brr-v1-cve-2021-26828-rce-850df114a357)
