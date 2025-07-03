@@ -82,7 +82,7 @@ In TryHackMe's *Industrial Intrusion* room (Task 10 – Web Brr v1), a forgotten
 After gaining shell access in the TryHackMe room, the flag was retrieved using:
 
 ```bash
-cat /home/user/flag.txt
+cat root.txt
 ```
 
 ### 🎉 Flag:
